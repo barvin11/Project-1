@@ -1,5 +1,5 @@
 # Project-1
-### Team 8 - Food Deserts Related to Crime
+### Food Deserts Related to Crime
 ### Team Members - Hayden Hinton, Jeanne Aulbach, Vince Baria, Lekh Malla
 ### February 12, 2022
 
@@ -15,15 +15,35 @@
 ### Grocery Store:  The classification was chosen as opposed to convenience stores or fast food restaturants because of the emphasis on healthy food by the former.
  
 ## Data Sources 
-### Grocery Store Data:  Yelp API
-### Crime Data:  City of Atlanta crimes that occurred during 2021 regardless of when reported, downloaded from the Atlanta Police Department.
-### NPU Data:  City of Atlanta ArcGIS
- 
+#### Grocery Store Data:  Yelp API
+#### Crime Data:  City of Atlanta crimes that occurred during 2021 regardless of when reported, downloaded from the Atlanta Police Department.
+#### NPU Data:  City of Atlanta ArcGIS
 
+###  Count of Each Data Set per NPU
+
+### Number of crime incidents by NPU
+
+### Number of Grocery Stores by NPU
+
+### Top Three NPUs for Crime
+
+### Comparison of Crime and Grocery Locations
+
+### Generated Crime Heat Map Using GMAPS
+
+### Trend Line of Correlation 
  
- 
- 
- 
+## Conclusions
+### There is correlation between the locations of grocery stores and crimes.
+### Correlation shows that generally that generally speaking where there are more grocery stores, there is more crime not the opposite as we assumed.
+### We note that correlation does not necessarily imply with casutation.
+### The figures were not adjusted for population, which could impact the outcome of out analysis.
+### It would be interwesting to see whether subsets of crime would provide graeter impact to the analysis.
+
+
+
+
+
  
   https://tinyurl.com/xa5u3j6vlanning Unit
   
